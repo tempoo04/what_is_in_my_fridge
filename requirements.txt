@@ -1,0 +1,7 @@
+streamlit
+uvicorn
+spacy
+scikit-learn
+pydantic
+python-multipart
+pytest
